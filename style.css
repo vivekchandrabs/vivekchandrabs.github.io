@@ -1,0 +1,73 @@
+.under
+{
+	position:absolute;
+            left:0px;
+            top:0px;
+           height: 300px;
+            width: 80%
+            z-index:-1;
+}
+.over
+{
+	 position:absolute;
+            left:33%;
+
+            top:20%;
+            width:20%;
+            height: 20%
+            z-index:-1;
+             /*border-radius: 50%;*/
+            /* border: solid;
+             border-color: blue;*/
+}
+
+
+.cont .item
+{
+	height: 700px
+
+}
+
+.con
+{
+	 /*background-image: url("https://johnkusch.com/wp-content/uploads/2018/03/website-design-essex.jpg");*/
+	 background-color: #d1ccc0;
+	 height: 100%;
+	 background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-rendering: pixelated;	
+}
+
+.lineing
+{
+	margin: 0 auto; /* Added */
+        float: none; /* Added */
+        /*margin-bottom: 10px; /* Added */*/
+	/*padding-left: 150px;
+	padding-right: 150px;*/
+}
+.lineing1
+{
+	/*padding-left: 200px*/
+}
+
+.box
+{
+	padding-left: 200px;
+	padding-top: 20px;
+	text-align:center;
+}
+
+
+}
+
+@font-face {
+  font-family: "Kii";
+  src: url("International.ttf") format("truetype");
+  /*url("Justify.otf") format("opentype");*/
+}
+
+
+
+
